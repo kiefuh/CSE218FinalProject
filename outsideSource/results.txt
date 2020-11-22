@@ -1,0 +1,45 @@
+		Single Loop
+File					Time(nanoseconds)
+5	percent			126322
+10	percent			168167
+15	percent			99873
+20	percent			151588
+25	percent			142903
+30	percent			126717
+35	percent			194221
+40	percent			148034
+45	percent			154745
+50	percent			190273
+55	percent			182773
+60	percent			242382
+65	percent			296858
+70	percent			215538
+75	percent			258566
+80	percent			251855
+85	percent			237645
+90	percent			251461
+95	percent			406995
+100	percent			276331
+		Triple Loop
+File					Time(nanoseconds)
+5	percent			122770
+10	percent			91189
+15	percent			86452
+20	percent			99084
+25	percent			104611
+30	percent			115664
+35	percent			121980
+40	percent			133033
+45	percent			185931
+50	percent			153955
+55	percent			177246
+60	percent			198563
+65	percent			180405
+70	percent			192642
+75	percent			200142
+80	percent			217117
+85	percent			252251
+90	percent			221065
+95	percent			234091
+100	percent			239224
+

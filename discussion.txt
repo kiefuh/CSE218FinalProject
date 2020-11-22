@@ -1,0 +1,7 @@
+From looking at the graphs and comparing the two different implementations I would say that overall single loop and
+triple loop are the same with a big O of n. The reason I say the big O is n is because both of their graphs 
+are linear. Another reason I say that they are both n is because even though the triple loop has three loops they 
+are not nested within each other, and since each loop only does one thing once they have a big O of 1. The large loop
+around the three of them is n so it is n*(1+1+1) which is still n in terms of big O. Since the big O is n, when the 
+word count increases the performance should decrease. So at the beginning of the graph it should have low times and at
+the end the time taken should be greater.

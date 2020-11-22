@@ -1,0 +1,45 @@
+		Single Loop
+File		Time
+truncateFiles/truncate0		1.793333102E9
+truncateFiles/truncate1		4.77994254E8
+truncateFiles/truncate2		3.66288595E8
+truncateFiles/truncate3		4.25883527E8
+truncateFiles/truncate4		1.940233349E9
+truncateFiles/truncate5		4.05994469E8
+truncateFiles/truncate6		4.71245877E8
+truncateFiles/truncate7		5.39586657E8
+truncateFiles/truncate8		1.134618163E9
+truncateFiles/truncate9		1.379881273E9
+truncateFiles/truncate10		6.69167323E8
+truncateFiles/truncate11		5.4847975E8
+truncateFiles/truncate12		5.6583407E8
+truncateFiles/truncate13		5.80554176E8
+truncateFiles/truncate14		5.90005456E8
+truncateFiles/truncate15		6.00510342E8
+truncateFiles/truncate16		5.98187985E8
+truncateFiles/truncate17		6.070041E8
+truncateFiles/truncate18		6.85913323E8
+truncateFiles/truncate19		7.34798094E8
+		Triple Loop
+File		Time
+truncateFiles/truncate0		1.124425924E9
+truncateFiles/truncate1		5.9298982E8
+truncateFiles/truncate2		1.285708759E9
+truncateFiles/truncate3		5.9387842E8
+truncateFiles/truncate4		1.15541082E9
+truncateFiles/truncate5		6.37219219E8
+truncateFiles/truncate6		3.84409534E8
+truncateFiles/truncate7		4.28337732E8
+truncateFiles/truncate8		4.9579544E8
+truncateFiles/truncate9		5.24324551E8
+truncateFiles/truncate10		8.97259279E8
+truncateFiles/truncate11		6.15667839E8
+truncateFiles/truncate12		4.9504698E8
+truncateFiles/truncate13		5.13684262E8
+truncateFiles/truncate14		5.27849733E8
+truncateFiles/truncate15		5.41813089E8
+truncateFiles/truncate16		5.43372775E8
+truncateFiles/truncate17		5.75367854E8
+truncateFiles/truncate18		6.09505283E8
+truncateFiles/truncate19		6.69969864E8
+
